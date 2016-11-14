@@ -1,9 +1,9 @@
 {
-  "name": "angular-seed",
+  "name": "angular2-tdd-workshop",
   "version": "0.0.0",
-  "description": "Modular starter project for Angular 2 (and beyond) with statically typed build and AoT compilation",
+  "description": "",
   "repository": {
-    "url": "https://github.com/mgechev/angular-seed"
+    "url": "https://github.com/adobley/angular2-tdd-workshop"
   },
   "scripts": {
     "build.dev": "gulp build.dev --color --env-config dev",
@@ -37,7 +37,6 @@
     "webdriver-start": "webdriver-manager start",
     "webdriver-update": "webdriver-manager update"
   },
-  "author": "Minko Gechev <mgechev>",
   "license": "MIT",
   "devDependencies": {
     "@angular/compiler-cli": "~2.1.2",
