@@ -23,24 +23,32 @@ Must give us pause.
 If only we had a BA and not some silly Developer writing these.
 
 #Our Awesome Stories
+```
 In order to know what web site I am on
 As a user
 I want to see the name of the application displayed as a header
+```
 
+```
 In order to see my ToDos
 As a user
 I want to see a list of tasks that need to be done
+```
 
+```
 In order to mark my ToDos complete
 As a user
 I want a way to indicate they are done
+```
 
+```
 In order to add more ToDos to my list
 As a user
 I want a simple form that will add a ToDo to my list
+```
 
+```
 In order to remove ToDos I no longer want to see or that I added by mistake
 As a user
 I want a method of deleting a single ToDo
-
-
+```
