@@ -24,12 +24,6 @@ If only we had a BA and not some silly Developer writing these.
 
 #Our Awesome Stories
 ```
-In order to know what web site I am on
-As a user
-I want to see the name of the application displayed as a header
-```
-
-```
 In order to see my ToDos
 As a user
 I want to see a list of tasks that need to be done
