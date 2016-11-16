@@ -22,27 +22,27 @@ Must give us pause.
 ```
 If only we had a BA and not some silly Developer writing these.
 
-#Our Awesome Stories
+# Our Awesome Stories
 ```
-In order to see my ToDos
-As a user
-I want to see a list of tasks that need to be done
-```
-
-```
-In order to mark my ToDos complete
-As a user
-I want a way to indicate they are done
+In order to organize my time
+As a doer of things
+I want to see a list of tasks
 ```
 
 ```
-In order to add more ToDos to my list
-As a user
-I want a simple form that will add a ToDo to my list
+In order to know what I have to do next
+As a doer of things
+I want a way to indicate that tasks have been completed
+```
+
+```
+In order to do more things
+As a doer of things
+I want a way to add tasks to my list
 ```
 
 ```
 In order to remove ToDos I no longer want to see or that I added by mistake
-As a user
+As a doer of things
 I want a method of deleting a single ToDo
 ```
